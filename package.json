@@ -1,24 +1,24 @@
 {
   "private": false,
-  "name": "@growthbunker/vueflags",
-  "version": "0.1.14",
-  "author": "Julien Le Coupanec <julien.le.coupanec@gmail.com>",
+  "name": "@singleway/vueflags",
+  "version": "0.1.15",
+  "author": "Tony Wang <netspecters@gmail.com>",
   "license": "MIT",
-  "description": "One easy-to-use flag component for Vue.js with all ISO 3166-1 countries.",
+  "description": "One easy-to-use flag component for Vue.js with all ISO 3166-1 countries(Fork from @growthbunker/vueflags).",
   "keywords": [
     "vue",
     "components",
     "flag",
     "flags"
   ],
-  "homepage": "https://www.growthbunker.dev/vueflags",
+  "homepage": "https://github.com/singleway/vueflags",
   "repository": {
     "type": "git",
-    "url": "https://github.com/growthbunker/vueflags.git"
+    "url": "https://github.com/singleway/vueflags.git"
   },
   "bugs": {
-    "email": "product@growthbunker.com",
-    "url": "https://github.com/growthbunker/vueflags/issues"
+    "email": "netspecters@gmail.com",
+    "url": "https://github.com/singleway/vueflags/issues"
   },
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm-bundler.js",

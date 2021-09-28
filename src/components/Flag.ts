@@ -68,7 +68,7 @@ export default defineComponent({
     }
   },
   render(ctx: any) {
-    let attrs = {}
+    let attrs: { [key: string]: any } = {}
 
     if (isVue3) {
       // Compose element attrs for Vue 3
